@@ -1,0 +1,1 @@
+alter table users_registration add password varchar(100) default 'pass123';
